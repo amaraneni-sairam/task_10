@@ -1,0 +1,12 @@
+Sno,Company,Industry,Year,Revenue(USD),Employees,Market Cap(USD),Profit(USD)
+0,Apple,Technology,2020,274.5,147,2.3,57.4
+1,Amazon,Retail,2020,386,876,1.6,21.3
+2,ExxonMobil,Energy,2020,181,72,246,-22.4
+3,Toyota,Automotive,2020,270,366,198,19.1
+4,Johnson & Johnson,Healthcare,2020,109,132,445,14.7
+5,Procter & Gamble,Consumer Goods,2020,71,97,325,8.1
+6,Visa,Finance,2020,21,20,461,14.2
+7,Nestle,Food & Beverage,2020,89,291,334,10.1
+8,Alphabet,Technology,2020,182,135,1.4,34.3
+9,Walmart,Retail,2020,524,220,397,14.9
+10,Shell,Energy,2020,180,82,183,-21.4
